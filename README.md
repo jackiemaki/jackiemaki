@@ -1,7 +1,7 @@
-- Hi, I’m @jackiemaki
-- I’m interested in automation and cybersecurity 
-- I’m currently learning AI development and machine lerning process
-- I’m looking to collaborate on anything that will make me learn something new
+- ✨ Hi, I’m @jackiemaki
+- ✨ I’m interested in automation and cybersecurity 
+- ✨ I’m currently learning AI development and machine lerning process
+- ✨ I’m looking to collaborate on anything that will make me learn something new
 
 
 <!---
